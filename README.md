@@ -53,7 +53,7 @@ _All major projects are available in my repositories._
 
 ## Contact
 
-📧 **Email:** < a href ="ashwinikfatkar@gmail.com">  
+📧 **Email:** ashwinikfatkar@gmail.com  
 
 ---
 
