@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashwini Fatkar</h1>
-<h3 align="center">🎓 Computer Science Undergraduate  
-📊 Focused on Data Analytics, Research-Oriented Computing, and Applied Machine Learning </h3 
+<h3 align="center">🎓 Computer Science Undergraduate| 
+📊 Data Analytics & Research-Oriented Computing| Applied Machine Learning </h3 
 
 ---
 
 ## About Me
 
-I am a Computer Science undergraduate with a strong interest in data analytics, research-driven problem solving, and computational analysis. My academic and practical work focuses on transforming raw data into meaningful insights using analytical and visualization techniques.
+I am a Computer Science undergraduate with a strong interest in data analytics, research-driven problem solving, and computational analysis. My academic and practical work focuses on analyzing real-world dataset,extracting meaningful insights using analytical and statistical techniques.
 
 I enjoy working on real-world datasets, building data-driven solutions, and exploring how analytics and machine learning can support research and decision-making.
 
@@ -15,8 +15,8 @@ I enjoy working on real-world datasets, building data-driven solutions, and expl
 ## Research & Technical Interests
 
 - Data Analytics and Statistical Analysis  
-- Research-Oriented Computing  
-- Applied Machine Learning  
+- Research-Oriented Computing
+- Applied Machine Learning
 - Data Visualization and Dashboarding  
 - Exploratory Data Analysis (EDA)  
 - Research Methodologies using Data  
@@ -25,18 +25,24 @@ I enjoy working on real-world datasets, building data-driven solutions, and expl
 
 ## Technical Skills
 
-### Programming & Data Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Programming**
+- Python 
 - SQL  
-- Power BI  
-- Excel  
 
-### Core Skills
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis  
-- Visualization & Reporting  
-- Analytical Thinking  
-- Research Documentation  
+**Laibraries**
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+**Analytics**
+- Data Cleaning
+- Exploratory Data Analysis(EDA)
+- Statistical Analysis
+
+**Visualization**
+- Power BI
+- Tableau
 
 ---
 
