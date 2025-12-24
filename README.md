@@ -1,23 +1,71 @@
 <h1 align="center">Hi 👋, I'm Ashwini Fatkar</h1>
-<h3 align="center">Computer Science Undergraduate focused on data analytics and research-based computing</h3>
+<h3 align="center">🎓 Computer Science Undergraduate  
+📊 Focused on Data Analytics, Research-Oriented Computing, and Applied Machine Learning </h3 
 
-- 🌱 I’m currently learning **Machine Learning, Advanced SQL, Power BI, Python for Data Science, Research Methodologies, and Statistical Analysis**
+---
 
-- 👯 I’m looking to collaborate on **Open-source data analytics, data science, and research-based projects related to healthcare, finance, or social impact**
+## About Me
 
-- 🤝 I’m looking for help with **Advanced data analysis techniques, research methodology, and improving model interpretability**
+I am a Computer Science undergraduate with a strong interest in data analytics, research-driven problem solving, and computational analysis. My academic and practical work focuses on transforming raw data into meaningful insights using analytical and visualization techniques.
 
-- 👨‍💻 All of my projects are available at [https://ashwini-fatkar-research-portfolio-35a7555a.base44.app](https://ashwini-fatkar-research-portfolio-35a7555a.base44.app)
+I enjoy working on real-world datasets, building data-driven solutions, and exploring how analytics and machine learning can support research and decision-making.
 
-- 📝 I regularly write articles on [Coming soon – focused on data analytics, research, and career preparation](Coming soon – focused on data analytics, research, and career preparation)
+---
 
-- 💬 Ask me about **Data Analytics, Python, SQL, Power BI, Machine Learning basics, and Data Visualization**
+## Research & Technical Interests
 
-- 📫 How to reach me **ashwinikfatkar@gmail.com**
+- Data Analytics and Statistical Analysis  
+- Research-Oriented Computing  
+- Applied Machine Learning  
+- Data Visualization and Dashboarding  
+- Exploratory Data Analysis (EDA)  
+- Research Methodologies using Data  
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashwini-fatkar-b4549428a](https://www.linkedin.com/in/ashwini-fatkar-b4549428a)
+---
 
-- ⚡ Fun fact **I enjoy turning raw data into meaningful insights and research stories**
+## Technical Skills
+
+### Programming & Data Tools
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL  
+- Power BI  
+- Excel  
+
+### Core Skills
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis  
+- Visualization & Reporting  
+- Analytical Thinking  
+- Research Documentation  
+
+---
+
+## Projects
+
+- Data analytics projects using real-world datasets  
+- Interactive dashboards using Power BI  
+- Python-based analysis and visualization projects  
+- Research-oriented analytical case studies  
+
+_All major projects are available in my repositories._
+
+---
+
+## Portfolio
+
+🔗 **Research & Project Portfolio:** <a href="https://ashwini-fatkar-research-portfolio-35a7555a.base44.app">  
+
+---
+
+## Contact
+
+📧 **Email:** < a href ="ashwinikfatkar@gmail.com">  
+
+---
+
+## Collaboration
+
+I am open to research collaborations, academic discussions, and internship opportunities related to data analytics, data science, and computational research.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
